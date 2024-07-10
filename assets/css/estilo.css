@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+}
+
+header {
+    margin: 44px 0px 144px 76px;
+}
+
+.link-header {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29px;
+    color: #989D9C;
+    text-transform: uppercase;
+    cursor: pointer;
+    margin-right: 23px;
+}
+
+.button-header {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFF;
+    cursor: pointer;
+    border: none;
+    border-radius: 20px;
+    width: 130px;
+    height: 41px;
+    background: #665AE1;
+    text-transform: uppercase;
+}
+
+.logo-wecare {
+    width: 568px;
+    height: 500px;
+    margin-left: 125px;
+    display: inline-block;
+}
+
+section {
+    display: inline-block;
+    margin-left: 86px;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 100px;
+    line-height: 122px;
+    color: #515151;
+    text-transform: uppercase;
+    width: 580px;
+}
+
+h2 {
+    font-size: 58px;
+    font-weight: 500;
+    line-height: 70px;
+    color: #515151;
+}
+
+p {
+    width: 400px;
+    font-size: 24px;
+    line-height: 29px;
+    color: #848484;
+    width: 515px;
+    margin: 32px 0px 65px 0px;
+}
+
+.button-section {
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 34px;
+    color: #000000;
+    text-transform: uppercase;
+    width: 239px;
+    height: 64px;
+    border-radius: 30px;
+    border: none;
+    box-shadow: 0px 4px 4px 0px #00000040;
+    background: #ADFF00;
+    cursor: pointer;
+}
